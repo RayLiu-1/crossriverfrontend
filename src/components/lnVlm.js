@@ -25,7 +25,7 @@ class LnVlm extends Component {
             },
 
             title: {
-                text: 'Loans Issued by Credit Score (Grade)'
+                text: 'Lending Club - Monthly Loan Volume'
             },
 
             xAxis: {
@@ -39,7 +39,7 @@ class LnVlm extends Component {
 
             yAxis: {
                 title: {
-                    text: 'Avg. Loan Amount'
+                    text: 'Loan Volume'
                 }
             },
 
